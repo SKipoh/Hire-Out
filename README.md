@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
+This is a Project for my OCR A-Level NEA. The idea of the project is to streamline the process of a sound/lighting company creating a hire list, receiving payment, and keeping a track of their equipment and it's condition and maintenance. I may work further on this project after it's completion.
+
+No Pull Requests Please.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
